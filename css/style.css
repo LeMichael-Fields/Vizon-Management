@@ -1,4 +1,4 @@
-/* Base Styles */
+/* TAG SELECTORS */
 * {
   box-sizing: border-box;
   scroll-behavior: smooth;
@@ -8,8 +8,8 @@ body {
   margin: 0;
   font-family: Karla;
   line-height: 1.6;
-	color: #fdb813;
-  background-color: #636969;
+	color: #2E5090;
+  background-color: #F6F6F6;
 }
 
 p {
@@ -23,7 +23,7 @@ a {
 
 h2 {
   text-align: center;
-  color: #fff;
+  color: #BF4040;
 }
 
 img{
@@ -31,7 +31,7 @@ img{
 }
 
 .hover:hover {
-  background-color: #fdb813;
+  background-color: #2E5090;;
 }
 
 .text {
@@ -60,7 +60,7 @@ img{
 .main-footer {
 	text-align: center;
 	padding: 2em 0;
-	background: #fdb813;
+	background: #2E5090;
   color: #636969;
 }
 
@@ -84,7 +84,7 @@ ul.row {
 }
 
 .main-nav a:hover {
-	background-color: #fdb813;
+	background-color: #2E5090;
 }
 
 .name a,
